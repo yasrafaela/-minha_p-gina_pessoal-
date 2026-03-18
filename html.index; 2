@@ -6,5 +6,8 @@
 </head>
 <body>
 <H1>"Bem Vindo"</H1>
+<section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Meu nome é [Sophia] e sou estudante de desenvolvimento.</p>
 </body>
 </html>
